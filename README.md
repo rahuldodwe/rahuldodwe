@@ -1,7 +1,7 @@
 # Hi, I'm Rahul Dodwe
-
 Tech Manager & Software Engineer working in a fast-paced startup environment.
 I focus on building scalable mobile and web applications while leading development efforts and taking ownership of end-to-end product delivery.
+
 ---
 
 ## About Me

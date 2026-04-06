@@ -1,16 +1,52 @@
-## Hi there 👋
+# Hi, I'm Rahul Dodwe 👋
 
-<!--
-**rahuldodwe/rahuldodwe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Tech Manager & Software Engineer working in a fast-paced startup environment.
 
-Here are some ideas to get you started:
+I focus on building scalable mobile and web applications while leading development efforts and taking ownership of end-to-end product delivery.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💼 About Me
+
+- 💻 Tech Manager at a startup
+- 🧠 Strong interest in AI, automation, and modern software systems
+- 📱 Experience in mobile and web development
+- ⚡ Thrive in fast-moving environments with high responsibility
+
+---
+
+## 🛠️ Tech Stack
+
+- **Languages & Frameworks:** JavaScript, TypeScript, React Native, MERN Stack
+- **Backend & APIs:** Node.js, REST APIs, Firebase
+- **AI & Data:** AI Automation, RAG, Agentic AI concepts
+- **Databases:** SQL & NoSQL
+- **Cloud & Tools:** Google Cloud, Git, CI/CD
+
+---
+
+## 🚀 What I Do
+
+- Build scalable applications from scratch
+- Design system architecture and workflows
+- Solve real-world problems with practical solutions
+- Continuously learn and adapt to new technologies
+
+---
+
+## 🌱 Currently Growing In
+
+- Advanced AI systems and automation
+- Scalable backend architectures
+- Product-focused engineering
+
+---
+
+## 🤝 Let's Connect
+
+- 💼 LinkedIn: (add your link)
+- 📧 Email: (optional)
+
+---
+
+⭐ Always open to collaboration, learning, and building impactful products.

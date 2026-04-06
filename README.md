@@ -17,7 +17,7 @@ I focus on building scalable mobile and web applications while leading developme
 
 ## 🛠️ Tech Stack
 
-- **Languages & Frameworks:** JavaScript, TypeScript, React Native, MERN Stack
+- **Languages & Frameworks:** JavaScript, TypeScript, Python, React Native, MERN Stack
 - **Backend & APIs:** Node.js, REST APIs, Firebase
 - **AI & Data:** AI Automation, RAG, Agentic AI concepts
 - **Databases:** SQL & NoSQL
@@ -44,8 +44,7 @@ I focus on building scalable mobile and web applications while leading developme
 
 ## 🤝 Let's Connect
 
-- 💼 LinkedIn: (add your link)
-- 📧 Email: (optional)
+- 💼 LinkedIn: https://www.linkedin.com/in/rahuldodwe
 
 ---
 

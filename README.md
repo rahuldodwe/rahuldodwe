@@ -1,5 +1,7 @@
 # Hi, I'm Rahul Dodwe 👋
 
+![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&lines=Tech+Manager;Software+Engineer;AI+Enthusiast;Building+Scalable+Products)
+
 🚀 Tech Manager & Software Engineer working in a fast-paced startup environment.
 
 I focus on building scalable mobile and web applications while leading development efforts and taking ownership of end-to-end product delivery.

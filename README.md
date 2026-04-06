@@ -3,17 +3,9 @@ Tech Manager & Software Engineer working in a fast-paced startup environment. I 
 
 ---
 
-## About Me
-- Tech Manager at a startup
-- Strong interest in AI, automation, and modern software systems
-- Experience in mobile and web development
-- Thrive in fast-moving environments with high responsibility
-
----
-
 ## Tech Stack
 - **Languages & Frameworks:** JavaScript, TypeScript, Python, React Native, MERN Stack
-- **Backend & APIs:** Node.js, REST APIs, Firebase
+- **Backend & APIs:** Node.js, REST APIs, Firebase, Supabase
 - **AI & Data:** AI Automation, RAG, Agentic AI concepts
 - **Databases:** SQL & NoSQL
 - **Cloud & Tools:** Google Cloud, Git, CI/CD
